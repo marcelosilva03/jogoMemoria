@@ -11,5 +11,5 @@ App desenvolvido através dos ensinos do bootcamp da DIO em parceria com a RI HA
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:marceloyan231@gmail.com)
 
 
-## ‼️: Linguagens Utilizadas
+## ‼️ Linguagens Utilizadas
 [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) HTML   [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) CSS   [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) JavaScript
